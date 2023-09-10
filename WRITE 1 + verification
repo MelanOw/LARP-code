@@ -1,0 +1,12 @@
+DEBUT
+  
+    REQUETE ("ecrire 1")
+    LIRE hb
+  
+    SI  hb = 1 ALORS
+         ECRIRE "gg tu sais compter" 
+    SINON
+        ECRIRE "TKT la prochaine fois tu l'aura haha"
+    FINSI
+  
+FIN
